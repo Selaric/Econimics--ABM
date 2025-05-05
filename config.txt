@@ -1,0 +1,20 @@
+# Macroeconomic Parameters
+initial_gdp=2.0
+initial_inflation=2.0  # Adjusted for realism
+inflation_target=2.0
+initial_interest_rate=45.5
+start_month=1
+
+# Population and Market Parameters
+household_count=100
+firm_count=1
+
+# Household Behavior Probabilities (Total = 1.0)
+household_aggressive_prob=0.3
+household_conservative_prob=0.5
+household_reactive_prob=0.2
+
+# Firm Size Probabilities (Total = 1.0)
+firm_small_prob=0.4
+firm_medium_prob=0.4
+firm_large_prob=0.2
